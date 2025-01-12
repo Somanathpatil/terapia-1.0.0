@@ -442,10 +442,11 @@
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 160px 0 60px 0;
+    padding: 160px 10px 160px 10px;
+    width: 100%;
 }
 
-.bg-breadcrumb .breadcrumb-item a {
+.bg-breadcrumb .breadcrumb-item a  {
     color: var(--bs-white) !important;
 }
 /*** Single Page Hero Header End ***/
